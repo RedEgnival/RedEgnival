@@ -6,7 +6,7 @@
 - 💬 Ask me about anyth...
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like chess, @REdEgnival on lichess
+- ⚡ Fun fact: I like chess, @RedEgnival on lichess
 
 <!--
 **RedEgnival/RedEgnival** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
